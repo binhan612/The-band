@@ -96,7 +96,7 @@ html {
 }
 #slider {
   padding-top: 50%;
-  background: url('../images/ny.jpg') top center / cover no-repeat;
+  background: url('/assets/images/ny.jpg') top center / cover no-repeat;
   position: relative;
 }
 #slider .text-content {
