@@ -82,14 +82,17 @@ html {
 #nav .subnav li:hover a {
   background-color: #ccc;
 }
+#header .mobile-menu-btn,
 #header .search-btn {
   float: right;
   padding: 0 23px;
 }
+#header .mobile-menu-btn:hover,
 #header .search-btn:hover {
   background-color: #f44336;
   cursor: pointer;
 }
+#header .mobile-menu-btn,
 #header .search-icon {
   color: #fff;
   line-height: 46px;
